@@ -1,0 +1,22 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "experience/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "experience/css.png"
+    },
+    {
+        "title": "JS",
+        "imageSrc": "experience/js.png"
+    },
+    {
+        "title": "ReactJs",
+        "imageSrc": "experience/react.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "experience/mongodb.png"
+    }
+]
