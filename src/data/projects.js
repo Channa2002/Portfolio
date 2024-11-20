@@ -1,6 +1,6 @@
+ 
 
-
-[
+export const projects = [
     {
         "title" : "Basic Linkedin Clone",
         "imageSrc": "projects/projects.png",
