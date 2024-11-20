@@ -106,4 +106,21 @@
     .content {
         align-items: center;
     }
+
+    .title {
+        font-size: 45px;
+      }
+
+      .heroImg {
+        width: 48%;
+        z-index: 1;
+        border-radius: 100%;
+        margin-bottom: 40px;
+    }
+
+    .description {
+        font-size: 20px;
+        font-family: var(--font-roboto);
+        margin-bottom: 52px;
+    }
 }

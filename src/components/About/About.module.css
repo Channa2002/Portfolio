@@ -58,8 +58,8 @@
     font-weight: 600;
 }
 
-.aboutImage p {
-    font-size: 25px;
+.aboutItem p {
+    font-size: 23px;
 }
 
 @media screen and (max-width: 830px) {
@@ -81,6 +81,11 @@
 
     .aboutItems {
         margin-top: 29px;
+    }
+
+    .aboutItem p {
+        font-size: 20px;
+        margin-top: 10px;
     }
 
     
